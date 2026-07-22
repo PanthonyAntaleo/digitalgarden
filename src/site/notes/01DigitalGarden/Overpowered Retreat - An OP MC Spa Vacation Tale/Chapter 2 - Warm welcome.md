@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 2 - Warm welcome.md","permalink":"/overpowered-retreat-an-op-mc-spa-vacation-tale/chapter-2-warm-welcome/","updated":"2026-07-22T14:12:43.868-04:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 2 - Warm welcome.md","permalink":"/overpowered-retreat-an-op-mc-spa-vacation-tale/chapter-2-warm-welcome/","updated":"2026-07-22T14:19:05.490-04:00","dg-note-properties":{}}
 ---
 
 
-[< Chapter 1]([[01DigitalGarden/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 1 - Forced Vacation for a Hero\|Chapter 1 - Forced Vacation for a Hero]]) | Next Chapter Soon
+[[01DigitalGarden/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 1 - Forced Vacation for a Hero\|<< Chapter 1 - Forced Vacation for a Hero]]
 
 Darko supposed the top of Mount Dreadspire was a good location for a watch post. He would remain vigilant during his stay. Surely, he could keep alert and relax at the same time.
 
@@ -173,4 +173,4 @@ Delilah smiled up at him and started clacking the machine.
 
 “That’s just wonderful, Bronco. It’s fantastic you take relaxation so seriously.”
 
-[< Chapter 1]([[01DigitalGarden/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 1 - Forced Vacation for a Hero\|Chapter 1 - Forced Vacation for a Hero]]) | Next Chapter Soon
+[[01DigitalGarden/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 1 - Forced Vacation for a Hero\|<< Chapter 1 - Forced Vacation for a Hero]]

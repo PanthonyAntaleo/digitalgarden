@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sagaizm - Home.md","permalink":"/sagaizm-home/","pinned":"true","tags":["gardenEntry"],"updated":"2026-07-22T14:12:03.268-04:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Sagaizm - Home.md","permalink":"/sagaizm-home/","pinned":"true","tags":["gardenEntry"],"updated":"2026-07-22T14:16:20.996-04:00","dg-note-properties":{}}
 ---
 
 I'm a sys admin, reader, and writer with many interests.
@@ -9,7 +9,7 @@ There is no grand purpose behind this site besides sharing things I'm working on
 What I am working on now:
 - [**Read Dungeons & Deliveries - A Post Apocalypse Comedy Adventure** (Book)](https://www.royalroad.com/fiction/110894/dungeons-deliveries-a-post-apocalypse-comedy-adventure)
 - Other fictions in progress:
-	- [Overpowered Retreat - An OP MC Spa Vacation Tale]([[01DigitalGarden/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 1 - Forced Vacation for a Hero\|Chapter 1 - Forced Vacation for a Hero]])
+	- [[01DigitalGarden/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 1 - Forced Vacation for a Hero\|Overpowered Retreat - An OP MC Spa Vacation Tale]]
 	- Cottage Core Apocalypse
 - Always working on [[01DigitalGarden/Life/Life\|Life]].
 

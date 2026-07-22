@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 1 - Forced Vacation for a Hero.md","permalink":"/overpowered-retreat-an-op-mc-spa-vacation-tale/chapter-1-forced-vacation-for-a-hero/","updated":"2026-07-22T14:12:52.307-04:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 1 - Forced Vacation for a Hero.md","permalink":"/overpowered-retreat-an-op-mc-spa-vacation-tale/chapter-1-forced-vacation-for-a-hero/","updated":"2026-07-22T14:18:40.076-04:00","dg-note-properties":{}}
 ---
 
-[> Chapter 2]([[01DigitalGarden/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 2 - Warm welcome\|Chapter 2 - Warm welcome]])
+[[01DigitalGarden/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 2 - Warm welcome\|>> Chapter 2 - Warm Welcome]]
 
 Darko supposed that if you squinted and tilted your head, the mountain looked like a serrated knife that ended in a little fist.
 
@@ -162,4 +162,5 @@ He would spend a month at Dreadspire Spa.
 
 After he inspected the bridge.
 
-[> Chapter 2]([[01DigitalGarden/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 2 - Warm welcome\|Chapter 2 - Warm welcome]])
+[[01DigitalGarden/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 2 - Warm welcome\|>> Chapter 2 - Warm Welcome]]
+
