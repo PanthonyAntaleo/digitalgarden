@@ -9,8 +9,8 @@ There is no grand purpose behind this site besides sharing things I'm working on
 What I am working on now:
 - [**Read Dungeons & Deliveries - A Post Apocalypse Comedy Adventure** (Book)](https://www.royalroad.com/fiction/110894/dungeons-deliveries-a-post-apocalypse-comedy-adventure)
 - Other fictions in progress:
-	- [[01DigitalGarden/Cottage Core Apocalypse/Cottage Core Apocalypse - Chapter 1\|Cottage Core Apocalypse]]
-	- [[01DigitalGarden/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 1 - Forced Vacation for a Hero\|Overpowered Retreat - An OP MC Spa Vacation Tale]]
+	- [[01DigitalGarden/Writing/Cottage Core Apocalypse/Cottage Core Apocalypse - Chapter 1\|Cottage Core Apocalypse]]
+	- [[01DigitalGarden/Writing/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 1 - Forced Vacation for a Hero\|Overpowered Retreat - An OP MC Spa Vacation Tale]]
 - Always working on [[01DigitalGarden/Life/Life\|Life]].
 
 Humans aren't supposed to be in a monoculture, so go do something you actually enjoy.
