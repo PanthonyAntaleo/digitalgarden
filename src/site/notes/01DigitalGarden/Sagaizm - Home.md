@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Sagaizm - Home.md","permalink":"/sagaizm-home/","pinned":"true","tags":["gardenEntry"],"updated":"2026-09-23T09:44:22.908-04:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Sagaizm - Home.md","permalink":"/sagaizm-home/","pinned":"true","tags":["gardenEntry"],"updated":"2026-09-23T10:22:18.120-04:00","dg-note-properties":{}}
 ---
 
-I'm Anthony, or SagaScribe, a sys admin, reader, and writer with many interests.
+I'm Tony, or SagaScribe, or A.P Scribe, a sys admin, reader, and writer with many interests.
 
-There is no grand purpose behind this site besides sharing things I'm working on, hosting thoughts, and various notes about topics. It will change and update.
+Published Works:
+- [**Pre-Order Dungeons & Deliveries Book 1**](https://a.co/d/0gywCJKP)
 
 What I am working on now:
 - [**Read Dungeons & Deliveries - A Post Apocalypse Comedy Adventure** (Book)](https://www.royalroad.com/fiction/110894/dungeons-deliveries-a-post-apocalypse-comedy-adventure)
