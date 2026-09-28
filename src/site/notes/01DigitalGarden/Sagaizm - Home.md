@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sagaizm - Home.md","permalink":"/sagaizm-home/","pinned":"true","tags":["gardenEntry"],"updated":"2026-09-23T10:22:18.120-04:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Sagaizm - Home.md","permalink":"/sagaizm-home/","pinned":"true","tags":["gardenEntry"],"updated":"2026-09-28T16:03:52.234-04:00","dg-note-properties":{}}
 ---
 
 I'm Tony, or SagaScribe, or A.P Scribe, a sys admin, reader, and writer with many interests.
@@ -12,7 +12,6 @@ What I am working on now:
 - Other fictions in progress:
 	- [[01DigitalGarden/Writing/Cottage Core Apocalypse/Cottage Core Apocalypse - Chapter 1\|Cottage Core Apocalypse]]
 	- [[01DigitalGarden/Writing/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 1 - Forced Vacation for a Hero\|Overpowered Retreat - An OP MC Spa Vacation Tale]]
-- Always working on [[01DigitalGarden/Life/Life\|Life]].
 
 Humans aren't supposed to be in a monoculture, so go do something you actually enjoy.
 
