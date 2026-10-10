@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes/On Writing/A Nobody writes and sells a comedy book.md","permalink":"/notes/on-writing/a-nobody-writes-and-sells-a-comedy-book/","tags":["writing","dgnote"],"updated":"2026-10-10T11:30:41.155-04:00","dg-note-properties":{"tags":["writing","dgnote"]}}
+{"dg-publish":true,"dg-path":"Notes/On Writing/A Nobody writes and sells a comedy book.md","permalink":"/notes/on-writing/a-nobody-writes-and-sells-a-comedy-book/","tags":["writing","dgnote"],"updated":"2026-10-10T11:32:58.652-04:00","dg-note-properties":{"tags":["writing","dgnote"]}}
 ---
 
 ![Pasted image 20261010111412.png](/img/user/zAttachments/Pasted%20image%2020261010111412.png)
@@ -34,4 +34,4 @@ Now it's advice time for new authors trying to "make it".
 - There are a lot of big personalities in this space, so get used to assholes and realize you are also likely one. People are meaner online than in real life. Keep in mind that the meanest people you’ll meet in the space are trolling you or are social idiots.
 - Don’t become a lolcow or scam people. Both are the quickest ways to get run out of the community.
 - If you get approached by publishers and don’t know what to do, seek advice from trustworthy big authors. This is where some of the best of people comes out. I sought advice from people I'm not that close with but respected from a professional pov, and many were extremely helpful and cool in this regard. Don’t sign anything you don’t understand.
-- You probably suck at writing. I suck too. That’s ok. There are very few natural talents. You need to suck before you’re good, so just keep writing at whatever pace you can manage.
+- You probably suck at writing. I suck too. That’s ok. There are very few natural talents. If you think you're the God of Writing, I have some bad news for you. You need to suck before you’re good, so just keep writing at whatever pace you can manage.
