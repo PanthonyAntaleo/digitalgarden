@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes/On Writing/A Nobody writes and sells a comedy book.md","permalink":"/notes/on-writing/a-nobody-writes-and-sells-a-comedy-book/","tags":["writing","dgnote"],"updated":"2026-10-10T11:28:44.264-04:00","dg-note-properties":{"tags":["writing","dgnote"]}}
+{"dg-publish":true,"dg-path":"Notes/On Writing/A Nobody writes and sells a comedy book.md","permalink":"/notes/on-writing/a-nobody-writes-and-sells-a-comedy-book/","tags":["writing","dgnote"],"updated":"2026-10-10T11:30:41.155-04:00","dg-note-properties":{"tags":["writing","dgnote"]}}
 ---
 
 ![Pasted image 20261010111412.png](/img/user/zAttachments/Pasted%20image%2020261010111412.png)
@@ -13,7 +13,7 @@ During that first release though, I was an early mentee in [SerasStreams](https:
 
 Dungeons & Deliveries was written to get me out of my funk after what I considered a sub-par first release. I had a decent backlog of 20 chapters, shouts from big authors, 4 ads, and picked at the blurb forever.  I had tried so hard and didn't think I did well. I think I was too hard on myself.  My now good friend [Dom707](https://www.reddit.com/user/Domr707/) and I committed to completing writathon to just have fun with our stories and get back into the swing of writing. So, I was very happy and surprised when my silly story about a delivery boy was shooting up rising stars.
 
-One thing I did have that helped me was decent connections in the space. I don't know if shouts work as well any longer, but I was shouted by a few large authors. Whether you think shouts are ruining the site or are annoying, I'm not here to argue. They worked for me at the time of my release and I will continue to use them. If you get high on RS, you will be bombarded with requests in DMs for shouts that you'll likely just need to ignore most of them.
+One thing I did have that helped me was decent connections in the space. I don't know if shouts work as well any longer, but I was shouted by a few large authors. Whether you think shouts are ruining the site or are annoying, I'm not here to argue. They worked for me at the time of my release and I will continue to use them. If you get high on RS, you will be bombarded with requests in DMs for shouts and you'll likely just need to ignore most of them.
 
 A massive regret I have is having zero backlog for the entire time I've written this series. It's stressful without one and I don't even want to think about what Patreon could have done. Maybe I would have had shit conversion, but still, fuck.  I've had to take multiple week long breaks on posting and that really screws with your readership. You lose a ton of regular readers if you take time off, or at least I did. Half of having no backlog and taking breaks is me being lazy, but the other half is job, health, social life, family stuff. Personally, that's all more important to me, and I don't feel the crazy pressure of make or break through writing so I don't begrudge the real grinders out there.
 
