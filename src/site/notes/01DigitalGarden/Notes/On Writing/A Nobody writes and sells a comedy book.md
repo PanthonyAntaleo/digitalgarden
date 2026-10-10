@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes/On Writing/A Nobody writes and sells a comedy book.md","permalink":"/notes/on-writing/a-nobody-writes-and-sells-a-comedy-book/","tags":["writing","dgnote"],"updated":"2026-10-10T11:26:28.545-04:00","dg-note-properties":{"tags":["writing","dgnote"]}}
+{"dg-publish":true,"dg-path":"Notes/On Writing/A Nobody writes and sells a comedy book.md","permalink":"/notes/on-writing/a-nobody-writes-and-sells-a-comedy-book/","tags":["writing","dgnote"],"updated":"2026-10-10T11:28:44.264-04:00","dg-note-properties":{"tags":["writing","dgnote"]}}
 ---
 
 ![Pasted image 20261010111412.png](/img/user/zAttachments/Pasted%20image%2020261010111412.png)
@@ -9,7 +9,7 @@ I starting writing Dungeons & Deliveries for the spring writathon in 2025. I had
 
 I had a small following prior to releasing Dungeons & Deliveries of about 1,000 followers. There was virtually no conversion between my stories. My first series I didn't like writing and dropped and then deleted. I was trying too hard to be meta and was going through a really hard time in my life when I wrote that. I still have the chapters and maybe I'll rewrite it someday because there's some good ideas there.
 
-During that first release though, I was an early mentee in [SerasStreams](https://www.reddit.com/user/SerasStreams/) mentor program for aspiring writers. I learned a ton from that. The 20,000 word drop day 1, the blurb, the shouts, ads, the cover. SerasStreams really showed me the ropes and offers a great program. I can't thank them enough.
+During that first release though, I was an early mentee in [SerasStreams](https://www.reddit.com/user/SerasStreams/) mentor program for aspiring writers. I learned a ton from that. The 20,000 word drop day 1, the blurb, the shouts, ads, the cover. SerasStreams really showed me the ropes and offers a great program. I can't thank them enough and recommend their practices as likely the best to succeed for new authors on Royal Road.
 
 Dungeons & Deliveries was written to get me out of my funk after what I considered a sub-par first release. I had a decent backlog of 20 chapters, shouts from big authors, 4 ads, and picked at the blurb forever.  I had tried so hard and didn't think I did well. I think I was too hard on myself.  My now good friend [Dom707](https://www.reddit.com/user/Domr707/) and I committed to completing writathon to just have fun with our stories and get back into the swing of writing. So, I was very happy and surprised when my silly story about a delivery boy was shooting up rising stars.
 
