@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Sagaizm - Home.md","permalink":"/sagaizm-home/","pinned":"true","tags":["gardenEntry"],"updated":"2026-09-28T16:03:52.234-04:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Sagaizm - Home.md","permalink":"/sagaizm-home/","pinned":"true","tags":["gardenEntry"],"updated":"2026-10-09T16:10:32.869-04:00","dg-note-properties":{}}
 ---
 
-I'm Tony, or SagaScribe, or A.P Scribe, a sys admin, reader, and writer with many interests.
+I'm Tony, or SagaScribe, or A.P. Scribe, a sys admin, reader, and writer with many interests.
 
 Published Works:
 - [**Pre-Order Dungeons & Deliveries Book 1**](https://a.co/d/0gywCJKP)
@@ -12,6 +12,8 @@ What I am working on now:
 - Other fictions in progress:
 	- [[01DigitalGarden/Writing/Cottage Core Apocalypse/Cottage Core Apocalypse - Chapter 1\|Cottage Core Apocalypse]]
 	- [[01DigitalGarden/Writing/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 1 - Forced Vacation for a Hero\|Overpowered Retreat - An OP MC Spa Vacation Tale]]
+
+I also add [[01DigitalGarden/Notes/Notes\|Notes]] about a range of topics, both for personal and public reference.
 
 Humans aren't supposed to be in a monoculture, so go do something you actually enjoy.
 
