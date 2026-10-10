@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes/On Writing/A Nobody writes and sells a comedy book.md","permalink":"/notes/on-writing/a-nobody-writes-and-sells-a-comedy-book/","tags":["writing","dgnote"],"updated":"2026-10-10T11:39:12.848-04:00","dg-note-properties":{"tags":["writing","dgnote"]}}
+{"dg-publish":true,"dg-path":"Notes/On Writing/A Nobody writes and sells a comedy book.md","permalink":"/notes/on-writing/a-nobody-writes-and-sells-a-comedy-book/","tags":["writing","dgnote"],"updated":"2026-10-10T11:44:19.523-04:00","dg-note-properties":{"tags":["writing","dgnote"]}}
 ---
 
 ![Pasted image 20261010111412.png](/img/user/zAttachments/Pasted%20image%2020261010111412.png)
@@ -19,10 +19,10 @@ A massive regret I have is having zero backlog for the entire time I've written 
 
 Alrighty, what would I do differently next time/going forward? This is also what I am going to do and is not advice. Advice for new authors is after this because we're writers here and all writers love to monologue.
 - Have a backlog. At least 50 chapters.
-- Don't care only about meta. Write what you would want to read.
+- Ignore the constant discussions about meta and what will sell best. Write what you would want to read.
 - Don't use an AI cover on release
 - Stay sane and ban myself from stat refreshing. Sorry RR, you're amazing and I'm thankful for the site, but I won't be purchasing author premium. The refresh dopamine is too delicious.
-- Beg for shouts from your homies because you ain't ArcaneCadence. I still think that without existing readership, shouts are the best early growth strategy pre rising stars. 
+- Beg for shouts from your homies because you ain't ArcaneCadence. I still think that without existing readership, shouts are the best early growth strategy pre rising stars.
 
 Now it's advice time for new authors trying to "make it".
 - Join discords but focus on writing. It's the primary place to get shouts and make friends in this space, but words come first. Discord is very distracting.
