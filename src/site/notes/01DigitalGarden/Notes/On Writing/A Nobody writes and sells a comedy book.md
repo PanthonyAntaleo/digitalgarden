@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes/On Writing/A Nobody writes and sells a comedy book.md","permalink":"/notes/on-writing/a-nobody-writes-and-sells-a-comedy-book/","tags":["writing","dgnote"],"updated":"2026-10-10T11:44:19.523-04:00","dg-note-properties":{"tags":["writing","dgnote"]}}
+{"dg-publish":true,"dg-path":"Notes/On Writing/A Nobody writes and sells a comedy book.md","permalink":"/notes/on-writing/a-nobody-writes-and-sells-a-comedy-book/","tags":["writing","dglife"],"updated":"2026-10-13T10:47:54.392-04:00","dg-note-properties":{"tags":["writing","dglife"]}}
 ---
 
 ![Pasted image 20261010111412.png](/img/user/zAttachments/Pasted%20image%2020261010111412.png)
