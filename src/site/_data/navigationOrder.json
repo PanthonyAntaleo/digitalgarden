@@ -1,0 +1,37 @@
+{
+  "/": [
+    "Sagaizm - Home",
+    "Notes",
+    "Writing"
+  ],
+  "/Notes": [
+    "IT",
+    "Life",
+    "On Writing",
+    "Notes"
+  ],
+  "/Notes/IT": [
+    "M365"
+  ],
+  "/Notes/IT/M365": [
+    "Microsoft Purview Site Label Requirements",
+    "New OneDrive Billing Legal Hold Requirement for Unlicensed Accounts"
+  ],
+  "/Notes/Life": [
+    "Life Note"
+  ],
+  "/Notes/On Writing": [
+    "A Nobody writes and sells a comedy book"
+  ],
+  "/Writing": [
+    "Cottage Core Apocalypse",
+    "Overpowered Retreat - An OP MC Spa Vacation Tale"
+  ],
+  "/Writing/Cottage Core Apocalypse": [
+    "Cottage Core Apocalypse - Chapter 1"
+  ],
+  "/Writing/Overpowered Retreat - An OP MC Spa Vacation Tale": [
+    "Chapter 1 - Forced Vacation for a Hero",
+    "Chapter 2 - Warm welcome"
+  ]
+}
