@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"Sagaizm - Home.md","permalink":"/sagaizm-home/","pinned":"true","tags":["gardenEntry"],"updated":"2026-10-09T16:10:32.869-04:00","dg-note-properties":{}}
+{"dg-publish":true,"dg-path":"Sagaizm - Home.md","permalink":"/sagaizm-home/","pinned":"true","tags":["gardenEntry"],"updated":"2026-11-25T13:45:32.775-05:00","dg-note-properties":{}}
 ---
 
 I'm Tony, or SagaScribe, or A.P. Scribe, a sys admin, reader, and writer with many interests.
 
 Published Works:
-- [**Pre-Order Dungeons & Deliveries Book 1**](https://a.co/d/0gywCJKP)
+- [**Buy Dungeons & Deliveries Book 1**](https://a.co/d/0gywCJKP)
 
 What I am working on now:
-- [**Read Dungeons & Deliveries - A Post Apocalypse Comedy Adventure** (Book)](https://www.royalroad.com/fiction/110894/dungeons-deliveries-a-post-apocalypse-comedy-adventure)
+- [**Read Dungeons & Deliveries - A Post Apocalypse Comedy Adventure** (Books 2 & 3!)](https://www.royalroad.com/fiction/110894/dungeons-deliveries-a-post-apocalypse-comedy-adventure)
 - Other fictions in progress:
 	- [[01DigitalGarden/Writing/Cottage Core Apocalypse/Cottage Core Apocalypse - Chapter 1\|Cottage Core Apocalypse]]
 	- [[01DigitalGarden/Writing/Overpowered Retreat - An OP MC Spa Vacation Tale/Chapter 1 - Forced Vacation for a Hero\|Overpowered Retreat - An OP MC Spa Vacation Tale]]
